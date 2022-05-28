@@ -1,0 +1,16 @@
+.title {
+    font-weight: bold;
+    font-size: 36px;
+    line-height: 46px;
+    color: #343434;
+}
+
+.card__title {
+    font-weight: bold;
+    font-size: 20px;
+    line-height: 26px;
+}
+
+.section {
+    padding-bottom: 100px;
+}
